@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a student management system made using Java for the Advanced Programming Concepts module.
+A Java-based student management system was developed for the Advanced Programming Concepts module.
 
 ## Features
 
